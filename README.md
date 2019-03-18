@@ -54,6 +54,7 @@ DDDは事前に実施設計済であった。
 結合テスト以降のテストの比重が自然に上がったり、E2Eテストの重要性が増すという側面が生まれる。
 
 実際にSpotifyではこれを「ハチの巣テスト方針」として以下URLのように説明している。
-[https://labs.spotify.com/2018/01/11/testing-of-microservices/?fbclid=IwAR1zSrEISneX55vtdK4nGeF8FM-sntdZdb7GREIO1WOaPHef99kBcJ-syTg]
+
+https://labs.spotify.com/2018/01/11/testing-of-microservices/?fbclid=IwAR1zSrEISneX55vtdK4nGeF8FM-sntdZdb7GREIO1WOaPHef99kBcJ-syTg
 
 以上
